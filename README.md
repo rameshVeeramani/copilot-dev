@@ -1,4 +1,5 @@
-# GitHub Copilot for Developers
+
+# GitHub Copilot for Ramesh Veeramani
 
 <img src="assets/images/tim-gh-copilot-cover-slide.png" alt="GitHub Copilot Course Cover" width="600" />
 
