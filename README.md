@@ -12,16 +12,6 @@ Gain experience with an AI-based pair programmer right now!
 
 ## Course Information
 
-**Instructor**: Tim Warner - Microsoft MVP, MCT
-
-## Connect with Tim
-- 📧 Email: [tim@techtrainertim.com](mailto:tim@techtrainertim.com)
-- 🌐 Website: [TechTrainerTim.com](https://techtrainertim.com)
-- 🐦 Bluesky: [@techtrainertim.bsky.social](https://bsky.app/profile/techtrainertim.bsky.social)
-- 💼 LinkedIn: [Timothy Warner](https://www.linkedin.com/in/timothywarner)
-- 🎥 YouTube: [@TechTrainerTim](https://youtube.com/@TechTrainerTim)
-- 📚 O'Reilly: [Timothy Warner](https://learning.oreilly.com/search/?q=author%3A%22Timothy+Warner%22&type=*&rows=100)
-
 ## Repository Structure
 
 ### Course Content
